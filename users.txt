@@ -1,0 +1,7 @@
+'test': {'password': 'test', 'score': 540, 'questions_asked': [2]}
+'yossi': {'password': '123', 'score': 50, 'questions_asked': []}
+'barel31': {'password': '123', 'score': 65, 'questions_asked': []}
+'master': {'password': 'master', 'score': 200, 'questions_asked': []}
+'example': {'password': 'ex', 'score': 500, 'questions_asked': []}
+'raz': {'password': 'raz', 'score': 0, 'questions_asked': []}
+'janine': {'password': 'janine', 'score': 5, 'questions_asked': []}
