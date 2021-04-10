@@ -1,5 +1,5 @@
 # Trivia-Game tk
-a Trivia game build in python in tk module and include client and server side connections and protocols.
+a trivia game build in python in tk module and include client and server side connections and protocols.
 
 # Setup
 1. Edit both server.py client_tk.py:
