@@ -3,9 +3,9 @@ Trivia game build in python in tk module and include client and server side conn
 
 # Setup
 1. Edit both server.py and client_tk.py files:
-2. 
-  a. Edit 'SERVER_IP' to the IP address of your server
-  b. Edit 'SERVER_PORT' to the port of the your server
+  a) Edit 'SERVER_IP' to the IP address of your server
+  b) Edit 'SERVER_PORT' to the port of the your server
+  
 2. Open router admin panel and open port (same port you setup in the file)
 3. Edit users.txt to add users to the game
 4. Run server.py wait for getting an IP
