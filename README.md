@@ -9,3 +9,4 @@ Trivia game build in python in tk module and include client and server side conn
 3. Edit users.txt to add users to the game
 4. Run server.py wait for getting an IP
 5. Run client_tk.py to connect and start playing
+s
